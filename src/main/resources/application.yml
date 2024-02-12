@@ -18,5 +18,5 @@ spring:
       show-sql: true
 
   application:
-    name: RESTAURANT_SERVICE
+    name: RESTAURANT-SERVICE
 
